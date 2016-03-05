@@ -1,0 +1,19 @@
+{
+  "name": "cast-curry",
+  "version": "1.0.0",
+  "description": "Curry, and partially apply funcitons",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "curry",
+    "partial",
+    "functional"
+  ],
+  "author": "Quentin Engles <hollowdoor99@gmail.com>",
+  "license": "MIT"
+}
